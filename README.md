@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### 🎓I`m currently studying at Bina Nusantara Univertisty, and majored Computer Science :D
+#### Interested in python 🐍
+### My Stat
+
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&theme=dracula)
+
+### Progamming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard483&layout=compact&hide=php,blade&theme=dracula)](https://github.com/richard483/github-readme-stats)
 <!--
 **richard483/richard483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
