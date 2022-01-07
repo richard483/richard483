@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-#### 🎓I`m currently studying at Bina Nusantara Univertisty, and majored Computer Science :D
-#### Interested in python 🐍
+#### 🎓 I`m currently majoring Computer Science at Binus University
+#### 🐍 Interested in python 
+#### 📫 How to reach me:
+*  Instagram: [My Insta](https://www.instagram.com/richard__uwu/)
+*  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
+
 ### My Stat
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&theme=dracula)
