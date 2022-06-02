@@ -6,6 +6,10 @@
 *  Instagram: [My Insta](https://www.instagram.com/richard__uwu/)
 *  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
 
+### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard483&theme=dark)](https://git.io/streak-stats)
+
 ### My Stat
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&theme=dracula)
