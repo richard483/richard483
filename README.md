@@ -12,11 +12,11 @@
 
 ### My Stat
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&theme=dracula)
+![richard483 preview](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
-### Progamming Languages
+### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard483&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,nodejs,java,androidstudio,python,azure,react,next,docker,github,gitlab&perline=5)](https://skillicons.dev)
 <!--
 **richard483/richard483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
