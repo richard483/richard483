@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🎓 I`m currently majoring Computer Science at Binus University & Internship at [Blibli.com](https://careers.blibli.com/)
+#### 🎓 I`m currently majoring Computer Science at Binus University & Internship as a Software Development Engineer at [Blibli.com](https://blibli.com/)
 #### 🐍 Interested in python 
 #### 📫 How to reach me:
 *  Instagram: [My Insta](https://www.instagram.com/richard__uwu/)
