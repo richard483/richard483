@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🎓 I`m currently majoring Computer Science at Binus University & Internship as a Software Development Engineer at [Blibli.com](https://blibli.com/)
-#### 🐍 Interested in python 
+
 #### 📫 How to reach me:
 *  Instagram: [My Insta](https://www.instagram.com/richard__uwu/)
 *  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
@@ -16,7 +16,8 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,nodejs,prisma,java,androidstudio,python,azure,react,next,docker,github,gitlab&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,nodejs,prisma,java,androidstudio,python,azure,react,next,docker,github,gitlab,spring,mongo&perline=5)](https://skillicons.dev)
+
 <!--
 **richard483/richard483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
