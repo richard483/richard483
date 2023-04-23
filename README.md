@@ -16,7 +16,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,nodejs,prisma,java,androidstudio,python,azure,react,next,docker,github,gitlab,spring,mongo&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,nodejs,prisma,java,androidstudio,python,azure,react,next,docker,github,gitlab,spring,mongo,redis,kafka&perline=5)](https://skillicons.dev)
 
 <!--
 **richard483/richard483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
