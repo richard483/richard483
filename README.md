@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-#### 🎓 I`m currently majoring Computer Science at Binus University & Internship as a Software Development Engineer at [Blibli.com](https://blibli.com/)
+#### 🎓 Currently majoring Computer Science at Binus University & Internship
+#### ex-Software Development Engineer at [Blibli.com](https://blibli.com/)
 
 #### 📫 How to reach me:
 *  Instagram: [My Insta](https://www.instagram.com/richard__uwu/)
 *  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
+*  Email: richard.william483@gmail.com
 
 ### Streak
 
