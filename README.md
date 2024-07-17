@@ -8,9 +8,6 @@
 *  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
 *  Email: richard.william483@gmail.com
 
-### Most Used Languages
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/richard483/langs)](https://githubtrends.io)
 
 ### My Stat
 
