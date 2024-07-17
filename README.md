@@ -8,9 +8,9 @@
 *  LinkedIn: [My LinkedIn](https://www.linkedin.com/in/richard-william-9590161b7/)
 *  Email: richard.william483@gmail.com
 
-### Streak
+### Most Used Languages
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard483&theme=dark)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/richard483/langs)](https://githubtrends.io)
 
 ### My Stat
 
