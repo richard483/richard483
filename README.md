@@ -13,7 +13,7 @@
 
 ![richard483 preview](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
-### Skills
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,laravel,nodejs,prisma,java,androidstudio,python,azure,react,next,docker,github,gitlab,spring,mongo,redis,kafka,vue,vite,nestjs&perline=5)](https://skillicons.dev)
 
