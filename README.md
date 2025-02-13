@@ -15,7 +15,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,spring,react,vue,nestjs,laravel,nodejs,vite,androidstudio,azure,docker,postgres,mongo,redis,kafka,debian,jenkins&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,go,spring,react,vue,nestjs,laravel,nodejs,vite,androidstudio,azure,docker,postgres,mongo,redis,kafka,debian,jenkins&perline=10)](https://skillicons.dev)
 
 <!--
 **richard483/richard483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
