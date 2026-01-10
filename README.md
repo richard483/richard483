@@ -14,12 +14,6 @@ I'm Richard, a Backend Engineer from Jakarta. I love building things for the ser
 
 ---
 
-### 📈 My Stats
-
-![richard483's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard483&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-
----
-
 ### 📫 Let's Connect!
 
 Feel free to reach out. I'm always open to talking about tech, new opportunities, or just connecting with fellow developers!
